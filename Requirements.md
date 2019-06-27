@@ -3,6 +3,8 @@
   - PixHawk
   - PPM Encoder
   - Propellers
+  - 6-8 Brushless Motors
+  - 6-8 Electronic Speed Controllers
   - Landing Gear
   - Radio remote
 2. [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
