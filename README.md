@@ -9,3 +9,30 @@ Drone-Eye is a framework that intends to tackle both problems while running on e
 
 ![](bloggif.gif)
 
+## Prerequisites
+1. Basic Deep Learning concepts.
+2. Basics of Convolutional Neural Networks.
+3. Object Detection using CNN
+4. Tools
+* [Pytorch](https://pytorch.org)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* Basic python libraries used in ML ([Scikit-learn](https://scikit-learn.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)).
+
+## Resources
+To be added later
+
+## Further Works
+Further we may deploy the model and make search engine out of the feed collected from camera.
+
+## Communication
+Our chat channel is to be found on Discord [here](https://discordapp.com/channels/544501728498810880/591531461291671563)
+
+## Mentors
+* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**).
+* [Piyush Chauhan](https://github.com/piyushchauhan).
+* [Sriram Pingali](https://github.com/).
+* [Nischal](https://github.com/).
+
+
+
