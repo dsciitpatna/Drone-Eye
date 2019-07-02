@@ -70,6 +70,7 @@ Our chat channel is to be found on Discord [here](https://discordapp.com/channel
 ## Mentors
 * [Sahil Aggarwal](https://github.com/sahilee26) (**Project Mentor**)
 * [Piyush Chauhan](https://github.com/piyushchauhan)(**Project Mentor**)
+* [Vatsal Singhal](https://github.com/VatsalSin)
 * [Sriram Pingali](https://github.com/)
 * [Nischal](https://github.com/)
 
