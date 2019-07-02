@@ -68,7 +68,7 @@ Further we may deploy the model and make search engine out of the feed collected
 Our chat channel is to be found on Discord [here](https://discordapp.com/channels/544501728498810880/591531461291671563).
 
 ## Mentors
-* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**)
+* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Mentor**)
 * [Piyush Chauhan](https://github.com/piyushchauhan)(**Project Mentor**)
 * [Sriram Pingali](https://github.com/)
 * [Nischal](https://github.com/)
