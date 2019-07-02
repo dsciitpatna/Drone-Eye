@@ -20,19 +20,19 @@ Drone-Eye is a framework that intends to tackle both problems while running on e
 * Basic python libraries used in ML ([Scikit-learn](https://scikit-learn.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)).
 
 ## Resources
-To be added later
+To be added later on.
 
 ## Further Works
 Further we may deploy the model and make search engine out of the feed collected from camera.
 
 ## Communication
-Our chat channel is to be found on Discord [here](https://discordapp.com/channels/544501728498810880/591531461291671563)
+Our chat channel is to be found on Discord [here](https://discordapp.com/channels/544501728498810880/591531461291671563).
 
 ## Mentors
-* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**).
+* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**)
 * [Piyush Chauhan](https://github.com/piyushchauhan).
-* [Sriram Pingali](https://github.com/).
-* [Nischal](https://github.com/).
+* [Sriram Pingali](https://github.com/)
+* [Nischal](https://github.com/)
 
 
 
