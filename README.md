@@ -39,6 +39,8 @@ Drone-Eye is a framework that intends to tackle both problems while running on e
   1. Making/Getting a drone.
   2. Putting on camera.
   3. Computation board like Jetson.
+  <img src="nvidia-jetson-nano-600x600.jpg" width="300" height="300">
+  
 
 ### Stage 2
 
