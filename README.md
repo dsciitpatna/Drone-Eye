@@ -19,6 +19,43 @@ Drone-Eye is a framework that intends to tackle both problems while running on e
 * [Keras](https://keras.io/)
 * Basic python libraries used in ML ([Scikit-learn](https://scikit-learn.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)).
 
+## Hardware Requirements
+1. Drone hexacopter or octacopter
+  - PixHawk
+  - PPM Encoder
+  - Propellers
+  - 6-8 Brushless Motors
+  - 6-8 Electronic Speed Controllers
+  - Landing Gear
+  - Radio remote
+2. [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+3. Camera (USB Cam will do)
+4. Gimble
+
+## Pipeline 
+
+### Stage 1
+
+  1. Making/Getting a drone.
+  2. Putting on camera.
+  3. Computation board like Jetson.
+
+### Stage 2
+
+4. Apply YOLO and other models on the feed of the camera
+  - Use object detection with web cam 
+  - Find how to do the same task on NVIDIA Jetson Nano
+  - Config and Implement the processing on Jetson board with external camera
+  - Deploy the setup on the drone
+  - Get the relevant info from the drone
+
+### Stage 3
+
+5. Tag the detected objects with GPS location, Compass direction and Time stamp.
+6. Send these info on a server.
+7. Make a search engine on the detected objects.
+
+
 ## Resources
 To be added later on.
 
