@@ -30,7 +30,7 @@ Our chat channel is to be found on Discord [here](https://discordapp.com/channel
 
 ## Mentors
 * [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**)
-* [Piyush Chauhan](https://github.com/piyushchauhan).
+* [Piyush Chauhan](https://github.com/piyushchauhan)(**Project Mentor**)
 * [Sriram Pingali](https://github.com/)
 * [Nischal](https://github.com/)
 
