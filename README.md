@@ -59,7 +59,7 @@ Drone-Eye is a framework that intends to tackle both problems while running on e
 
 
 ## Resources
-To be added later on.
+http://www.deeplearningbook.org/
 
 ## Further Works
 Further we may deploy the model and make search engine out of the feed collected from camera.
