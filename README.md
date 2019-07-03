@@ -62,17 +62,14 @@ Drone-Eye is a framework that intends to tackle both problems while running on e
 http://www.deeplearningbook.org/
 
 ## Further Works
-Further we may deploy the model and make search engine out of the feed collected from camera.
+Further we may deploy the model on a swarm of drones so that objects detected are not redundant.
 
 ## Communication
 Our chat channel is to be found on Discord [here](https://discordapp.com/channels/544501728498810880/591531461291671563).
 
-## Mentors
-* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Mentor**)
-* [Piyush Chauhan](https://github.com/piyushchauhan)(**Project Mentor**)
-* [Vatsal Singhal](https://github.com/VatsalSin)
+## Contributors
+* [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**)
+* [Piyush Chauhan](https://github.com/piyushchauhan)(**Project Lead**)
 * [Sriram Pingali](https://github.com/)
 * [Nischal](https://github.com/)
-
-
 
