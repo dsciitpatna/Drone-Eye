@@ -71,5 +71,5 @@ Our chat channel is to be found on Discord [here](https://discordapp.com/channel
 * [Sahil Aggarwal](https://github.com/sahilee26) (**Project Lead**)
 * [Piyush Chauhan](https://github.com/piyushchauhan)(**Project Lead**)
 * [Sriram Pingali](https://github.com/)
-* [Nischal](https://github.com/)
+* [Nischal A](https://github.com/Nish-19)
 
